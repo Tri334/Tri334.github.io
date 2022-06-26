@@ -3,26 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8a372e62ff68a771d34adb69b4d014af",
-"assets/assets/fonts/oswald/Oswald-Bold.ttf": "fc2aff752488d4117622424fe67ac164",
-"assets/assets/fonts/oswald/Oswald-ExtraLight.ttf": "fd13770a30eabe63961427fbc1af6ca0",
-"assets/assets/fonts/oswald/Oswald-Light.ttf": "1ba429bafeb7e7497970c07ed701a77f",
-"assets/assets/fonts/oswald/Oswald-Medium.ttf": "bee2e4e7d4a203c9647e8032aade5bf8",
-"assets/assets/fonts/oswald/Oswald-Regular.ttf": "7ce2b67f59ccf4d6c74f9b723ff2d2ae",
-"assets/assets/fonts/oswald/Oswald-SemiBold.ttf": "c816f692e49bcaa814c936d8d2ba8bf7",
-"assets/assets/fonts/staatliches/Staatliches-Regular.ttf": "0b1946eaefaeda766701618dba33e03c",
-"assets/assets/images/bosscha.jpg": "256600646651e638361646aa2b1b8388",
-"assets/assets/images/farm-house.jpg": "3190d0f8d8ad8a5bd96a2e206fb96d06",
-"assets/assets/images/floating-market.png": "3825da6a681989426fa55d7493abcf62",
-"assets/assets/images/jalan-asia-afrika.jpg": "bec6a2d8b740356d2dfbb1de0fdc3729",
-"assets/assets/images/kawah-putih.jpg": "a2371babfc2a47b7f07cd21c70c4d7c1",
-"assets/assets/images/museum-geologi.jpg": "feed43fb551fad21fd0b4f40e061c6d3",
-"assets/assets/images/ranca-upas.jpg": "18ec585026e0af3f21db6bb7aaccf2ce",
-"assets/assets/images/stone-garden.jpg": "baece3780756a2cb8b58e3531201f6e3",
-"assets/assets/images/taman-film.jpg": "3c440fc167e79c459af92e62c9b3b400",
-"assets/FontManifest.json": "3b4b6e18e5d8e8a113d17dcf6b4021db",
+  "assets/asset/fonts/AnekLatin-Regular.ttf": "661d8ee10028096f73cdde754356343d",
+"assets/asset/images/linktree.png": "d31383b7b0a0e4933bd169214cb50b33",
+"assets/asset/images/noback.png": "3abd1422fae0943a02edf64484d0493e",
+"assets/AssetManifest.json": "e6b05aacdcdcde8b0ee5de245f0fa4bc",
+"assets/FontManifest.json": "f5ca1f4a6f930098195912f8dac7190d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "2d7236aca695ba4cd213a3478e55d740",
+"assets/NOTICES": "4bbe1f3cd1cab45811e36194baaca208",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -34,11 +21,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ddbc67ecf1452004add413abda6f0f13",
-"/": "ddbc67ecf1452004add413abda6f0f13",
-"main.dart.js": "035cba09ca0c4d1c9a23eef49d5a19ce",
-"manifest.json": "209157474c664ed932048b8fb9b42591",
-"version.json": "0dce66230b859ef4c489ab4a60073cab"
+"index.html": "7f155412233228566c61eb9a88caaaf5",
+"/": "7f155412233228566c61eb9a88caaaf5",
+"main.dart.js": "a029cba3e5c700184192b8ef0d598e6e",
+"manifest.json": "6be79d9b58c6d286808490afd09f687a",
+"version.json": "52115a4958bc3e735120b80b627630dd"
 };
 
 // The application shell files that are downloaded before a service worker can
